@@ -21,6 +21,6 @@
 | ----- | ---- | ------| ------ |
 | 2/1  | Boltzmann distribution   | 1-30  | Adi  | 
 | 2/8  | Ising Model   |   | Joan |
-| 2/15 | Large Deviations (Sanov) |  | |
+| 2/15 | Large Deviations (Sanov) |  | Augustin |
 | 2/22 | Combinatorial Optimization |  | Esteban |
 | 3/1 | Random Energy Model |  | Afonso |
