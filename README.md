@@ -14,3 +14,13 @@
   - [Large Deviations, Dembo, Zeitouni](http://www.springer.com/us/book/9783642033100)
   
   
+  
+**Tentative Schedule**
+
+| Day | Topic | Sugg. Reading | Designated Leader |
+| ----- | ---- | ------| ------ |
+| 2/1  | Boltzmann distribution   | 1-30  | Adi  | 
+| 2/8  | Ising Model   |   | Joan |
+| 2/15 | Large Deviations (Sanov) |  | |
+| 2/22 | Combinatorial Optimization |  | Esteban |
+| 3/1 | Random Energy Model |  | Afonso |
