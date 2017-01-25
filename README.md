@@ -24,3 +24,5 @@
 | 2/15 | Large Deviations (Sanov) |  | Augustin |
 | 2/22 | Combinatorial Optimization |  | Esteban |
 | 3/1 | Random Energy Model |  | Afonso |
+| 3/8 | TBA |  | Vlad |
+
