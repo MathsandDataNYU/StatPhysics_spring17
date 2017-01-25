@@ -2,6 +2,7 @@
 
 
 **Where**: WWH 905
+
 **When**: Wednesdays, 12:05pm - 1:05pm
 
 
