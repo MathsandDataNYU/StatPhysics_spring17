@@ -20,7 +20,7 @@
 | Day | Topic | Sugg. Reading | Designated Leader |
 | ----- | ---- | ------| ------ |
 | 2/1  | Boltzmann distribution   | 1-30  | Adi  | 
-| 2/8  | Ising Model   |   | Joan |
+| 2/8  | Ising Model and First Hint of Large Deviations  | 30-?  | Joan |
 | 2/15 | Large Deviations (Sanov) |  | Augustin |
 | 2/22 | Combinatorial Optimization |  | Esteban |
 | 3/1 | Random Energy Model |  | Afonso |
