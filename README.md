@@ -5,7 +5,7 @@
 **When**: Wednesdays, 12:05pm - 1:05pm
 
 
-**Tentative list of Topics**
+**Tentative Literature **
 
   - [Montanari](http://web.stanford.edu/~montanar/RESEARCH/book.html)
   - [Panchenko](http://link.springer.com/book/10.1007%2F978-1-4614-6289-7)
