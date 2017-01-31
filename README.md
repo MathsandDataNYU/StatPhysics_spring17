@@ -25,4 +25,5 @@
 | 2/22 | Combinatorial Optimization |  | Esteban |
 | 3/1 | Random Energy Model |  | Afonso |
 | 3/8 | TBA |  | Vlad |
+| 3/15 | TBA |  | Alex |
 
